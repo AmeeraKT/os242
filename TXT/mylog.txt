@@ -3,8 +3,9 @@
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
 ZCZC  W00  100  L00 First Class
-ZCZC  W00  10   L01 Weekly assignment for Github, making 'os242' repo and pages
-ZCZC  W00  160  L02 Reading assignment
-ZCZC  W01  240  L03 Weekly assignment
+ZCZC  W00  10   L01 Weekly Assignments
+ZCZC  W00  160  L02 Reading Assignments
+ZCZC  W01  240  L03 Weekly Assignments
 ZCZC  W01  180  L04 Attended Fasilkom KKI gathering
-ZCZC  W01  240  LO5 Reading Assignment   
+ZCZC  W01  240  LO5 Reading Assignments
+ZCZC  W01  120  L06 Note Taking
