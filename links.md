@@ -1,3 +1,8 @@
+---
+layout: post
+title: LINKS for OS242
+---
+
 ## [HOME](../)
 
 # LINKS
