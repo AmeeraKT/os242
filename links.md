@@ -1,6 +1,5 @@
 ---
-layout: post
-title: LINKS for OS242
+permalink: LINKS/
 ---
 
 ## [HOME](../)
