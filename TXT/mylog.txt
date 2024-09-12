@@ -3,7 +3,7 @@
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
 ZCZC  W00  100  L00 First Class
-ZCZC  W00  10   L01 Weekly Assignments
+ZCZC  W00   10   L01 Weekly Assignments
 ZCZC  W00  160  L02 Reading Assignments
 ZCZC  W00   20  L03 Attended quiz
 ZCZC  W01  240  L04 Weekly Assignments
