@@ -2,19 +2,20 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
-ZCZC  W00  100  L00 First Class
-ZCZC  W00   10   L01 Weekly Assignments
+ZCZC  W02   60  L01 Did reading assignments and note taking
+ZCZC  W02  100  L02 Attended class
+ZCZC  W02   60  L03 Did some parts of weekly assignment
+ZCZC  W02  100  L04 Attended class
+ZCZC  W02   90  L05 Did some parts of weekly assignment
+ZCZC  W02   60  L06 Did reading assignments and note taking
+ZCZC  W02   10  L07 GitHub pages related
+ZCZC  W01  240  L01 Weekly Assignments
+ZCZC  W01  180  L02 Attended Fasilkom KKI gathering
+ZCZC  W01  240  L03 Reading Assignments
+ZCZC  W01  120  L04 Note Taking
+ZCZC  W01   60  L05 Studied for quiz
+ZCZC  W01   20  L06 Attended quiz
+ZCZC  W00  100  L00 Attended Class
+ZCZC  W00   10  L01 Weekly Assignments
 ZCZC  W00  160  L02 Reading Assignments
 ZCZC  W00   20  L03 Attended quiz
-ZCZC  W01  240  L04 Weekly Assignments
-ZCZC  W01  180  L05 Attended Fasilkom KKI gathering
-ZCZC  W01  240  L06 Reading Assignments
-ZCZC  W01  120  L07 Note Taking
-ZCZC  W01   60  L07 Studied for quiz
-ZCZC  W01   20  L09 Attended quiz
-ZCZC  W02   60  L10 Did reading assignments and note taking
-ZCZC  W02  100  L11 Attended class
-ZCZC  W02   60  L12 Did some parts of weekly assignment
-ZCZC  W02  100  L13 Attended class
-ZCZC  W02   80  L14 Did some parts of weekly assignment
-ZCZC  W02   60  L15 Did reading assignments and note taking
