@@ -22,3 +22,7 @@ permalink: LINKS/
   A step to step guide that covers important aspects about Linux, easy to follow in just 30 days. Within a given set of days, try to learn all the topics mentioned.
 * [University of Leicester - Introduction to Linux Course (Tutorial)](https://web.njit.edu/~alexg/courses/cs332/OLD/F2020/hand3f20/Linux-Tutorial.pdf){:target="_blank"} ---
   A pdf containing important Linux commands, what they do and how to use them. Looking up commands and what they are used for is easy and quick.
+* [Cyber Security Full Course for Beginner - My CS]([https://web.njit.edu/~alexg/courses/cs332/OLD/F2020/hand3f20/Linux-Tutorial.pdf]){:target="_blank"} ---
+  A 5 hour long video that contains all the essential information to understand cyber security deeply. This video explains how hash functions work to how malware interact with a computer.
+* [60 Linux Commands you NEED to know in (10 minutes) - NetworkChuck](https://www.youtube.com/watch?v=gd7BXuUQ91w){:target="_blank"} ---
+  A video that covers all the commands needed to use Linux to the fullest. Such commands that are discussed are echo, cat and grep.
