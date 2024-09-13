@@ -9,6 +9,8 @@ ZCZC  W02  100  L04 Attended class
 ZCZC  W02   90  L05 Did some parts of weekly assignment
 ZCZC  W02   60  L06 Did reading assignments and note taking
 ZCZC  W02   10  L07 GitHub pages related
+ZCZC  W02   10  L08 Scele pages related
+ZCZC  W02    5  L09 GitHub pages related
 ZCZC  W01  240  L01 Weekly Assignments
 ZCZC  W01  180  L02 Attended Fasilkom KKI gathering
 ZCZC  W01  240  L03 Reading Assignments
