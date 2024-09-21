@@ -26,3 +26,9 @@ permalink: LINKS/
   A 5 hour long video that contains all the essential information to understand cyber security deeply. This video explains how hash functions work to how malware interact with a computer.
 * [60 Linux Commands you NEED to know in (10 minutes) - NetworkChuck](https://www.youtube.com/watch?v=gd7BXuUQ91w){:target="_blank"} ---
   A video that covers all the commands needed to use Linux to the fullest. Such commands that are discussed are echo, cat and grep.
+* [File System Interface Chapter 13 - Jonathan Taylar](https://www.youtube.com/watch?v=duUccxFcJ9g){:target="_blank"} ---
+  A video presentation about chapter 13 from the OS book. It explains the content of slide in more detail.
+* [Files & File Systems: Crash Course Computer Science #20 - Crash Course](https://www.youtube.com/watch?v=KN8YgJnShPM){:target="_blank"} ---
+  This video explains many things about and things related to files and file systems in operating systems. It explains how data is stored and what directory files look like and how they can be operated on.
+* [Intro to Linux Week 11: Disk / Filesystems](https://www.youtube.com/watch?v=Qrb9fOaGZC8&list=PLXEcKYHTGBdTRlbumIL_PT8RMN7o3-wuS){:target="_blank"} ---
+  This playlist has 7 videos about files and disks in Linux. It demonstrates how mounting and partitioning is done.
