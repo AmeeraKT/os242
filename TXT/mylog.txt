@@ -6,6 +6,7 @@ ZCZC  W03  180  L01 Reading assignment and note taking
 ZCZC  W03  100  L02 Attended class
 ZCZC  W03  180  L03 Weekly assignment
 ZCZC  W03  120  L04 Reading assignment and note taking
+ZCZC  W03  180  L05 Weekly assignment
 ZCZC  W02   60  L01 Did reading assignments and note taking
 ZCZC  W02  100  L02 Attended class
 ZCZC  W02   60  L03 Did some parts of weekly assignment
