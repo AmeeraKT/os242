@@ -2,6 +2,12 @@
 ZCZC W03 adyoprawira
 ZCZC W03 bryantwarrickcai
 ZCZC W03 KeiraDiaz
+<<<<<<< HEAD
+=======
+ZCZC W02 neaurellia
+ZCZC W02 wuyu0107
+ZCZC W02 mcflurrins
+>>>>>>> fba1a5e (Completed Week 03 assignment and pop quizzes)
 ZCZC W02 neaurellia
 ZCZC W02 wuyu0107
 ZCZC W02 mcflurrins
