@@ -38,5 +38,3 @@ permalink: LINKS/
   This website contains information about memory, methods memory is allocated and how it is protected. There are diagrams that illustrate the explanations.
 * [Segmented, Paged and Virtual Memory - Computer Science](https://www.youtube.com/watch?v=p9yZNLeOj4s){:target="_blank"} ---
   This video explains how paged memory works which is covered in the course slides. It has pictures and animations and explains how page tables work.
-
-### Edited 28 / 09 / 2024
