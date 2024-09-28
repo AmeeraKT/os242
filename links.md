@@ -32,3 +32,9 @@ permalink: LINKS/
   This video explains many things about and things related to files and file systems in operating systems. It explains how data is stored and what directory files look like and how they can be operated on.
 * [Intro to Linux Week 11: Disk / Filesystems](https://www.youtube.com/watch?v=Qrb9fOaGZC8&list=PLXEcKYHTGBdTRlbumIL_PT8RMN7o3-wuS){:target="_blank"} ---
   This playlist has 7 videos about files and disks in Linux. It demonstrates how mounting and partitioning is done.
+* [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/){:target="_blank"} ---
+  This article covers how memory is managed in operating systems. It explains how contiguous memory allocation and dynamic loading works.
+* [Main Memory - University of Illinois Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html){:target="_blank"} ---
+  This website contains information about memory, methods memory is allocated and how it is protected. There are diagrams that illustrate the explanations.
+* [Segmented, Paged and Virtual Memory - Computer Science](https://www.youtube.com/watch?v=p9yZNLeOj4s){:target="_blank"} ---
+  This video explains how paged memory works which is covered in the course slides. It has pictures and animations and explains how page tables work.
