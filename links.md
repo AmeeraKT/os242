@@ -38,3 +38,9 @@ permalink: LINKS/
   This website contains information about memory, methods memory is allocated and how it is protected. There are diagrams that illustrate the explanations.
 * [Segmented, Paged and Virtual Memory - Computer Science](https://www.youtube.com/watch?v=p9yZNLeOj4s){:target="_blank"} ---
   This video explains how paged memory works which is covered in the course slides. It has pictures and animations and explains how page tables work.
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/){:target="_blank"} ---
+  The article covers general and related aspects of virtual memory in operating systems. It also has a table showcasing the difference between physical and virtual memory. 
+* [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/){:target="_blank"} ---
+  This article explains how paging works in operating systems. It has examples that explain it more.
+* [Operating System - Virtual Memory: Paging and Segmentation](https://www.youtube.com/watch?v=Ge11lAUyiYs){:target="_blank"} ---
+  This 45 minute video explains both paging and segmentation in depth. It also has a few examples so that vieweres can understand the topic faster.
