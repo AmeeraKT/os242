@@ -44,3 +44,9 @@ permalink: LINKS/
   This article explains how paging works in operating systems. It has examples that explain it more.
 * [Operating System - Virtual Memory: Paging and Segmentation](https://www.youtube.com/watch?v=Ge11lAUyiYs){:target="_blank"} ---
   This 45 minute video explains both paging and segmentation in depth. It also has a few examples so that vieweres can understand the topic faster.
+* [fork() in linux - Techdose](https://www.youtube.com/watch?v=CaWgJIbwb-4){:target="_blank"} ---
+  This video explains how the fork() function in Linux works. It also has various example codes that further show how it is used for better understanding.
+* [Inter Process Communication (IPC) - GeeksForGeeks](https://www.geeksforgeeks.org/inter-process-communication-ipc/){:target="_blank"} ---
+  This webpage explains every thing about how process utilize inter process communication or (IPC). It explains the different types and synchronous and asynchronous message passing.
+* [Multithreading in Operating System - GeeksForGeeks](https://www.geeksforgeeks.org/multithreading-in-operating-system/){:target="_blank"} ---
+  A webpage that explains what threads are and multithreading and how they are implemented in applications. It also discusses the advantages and disadvantages of multithreading.

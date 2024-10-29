@@ -2,6 +2,16 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC  W06  100  L01 Reading assignment and note taking
+ZCZC  W06  100  L02 Attended class
+ZCZC  W06   60  L03 Reading assignment and note taking
+ZCZC  W06  120  L04 Scele pop quiz related
+ZCZC  W06  100  L05 Attended class
+ZCZC  W06   60  L06 Reading assignment and note taking
+ZCZC  W06   10  L07 GitHub pages related
+ZCZC  W06  100  L08 Scele pop quiz related
+ZCZC  W06   10  L08 GitHub pages related
+ZCZC  W06   60  L09 Setting up Docusaurus for pop quiz
 ZCZC  W05  120  L01 Reading assignment and note taking
 ZCZC  W05  100  L02 Attended class
 ZCZC  W05   60  L03 Reading assignment and note taking
