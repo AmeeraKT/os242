@@ -50,3 +50,15 @@ permalink: LINKS/
   This webpage explains every thing about how process utilize inter process communication or (IPC). It explains the different types and synchronous and asynchronous message passing.
 * [Multithreading in Operating System - GeeksForGeeks](https://www.geeksforgeeks.org/multithreading-in-operating-system/){:target="_blank"} ---
   A webpage that explains what threads are and multithreading and how they are implemented in applications. It also discusses the advantages and disadvantages of multithreading.
+* [The Critical-Section Problem - Neso Academy](https://www.youtube.com/watch?v=UtEORPakw5Y){:target="_blank"} ---
+  This video explains the guidelines of the critical section problem. It also discusses three requirements a solution to the problem must have.
+* [The Readers Writers Problem - Neso Academy](https://www.youtube.com/watch?v=p2XDhW5INOo){:target="_blank"} ---
+  There are details about the characteristics of Readers and Writes Problems. An example of a problem being solved with sempahores is given.
+* [Deadlock Detection Algorithm in Operating System - GeeksForGeeks](https://www.geeksforgeeks.org/deadlock-detection-algorithm-in-operating-system/){:target="_blank"} ---
+  This article explains each step of the deadlock detection algorithm. It also has an example question, information about other algorithms and a list of its advantages and disadvantages.
+* [Scheduling Criteria - Neso Academy](https://www.youtube.com/watch?v=bWHFY8-rL5I&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&index=4){:target="_blank"} ---
+  This video explains what scheduling criteria is and its characteristics. The aspects that are discussed are waiting time and response time.
+* [Round Robin Scheduling - Solved Problem (Part 1) - Neso Academy](https://www.youtube.com/watch?v=QlCmgBOMjlI&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&index=16){:target="_blank"} ---
+  This video explains an example about round robin scheduling. It discusses how a Gantt chart is used for this problem with given arrival times
+* [Multiple-Processor Scheduling in Operating System - Geeks for Geeks](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/){:target="_blank"} ---
+  A webpage that explains what CPU and multiple-processor scheduling is. It also covers processor affinity and load balancing.
