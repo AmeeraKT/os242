@@ -62,3 +62,9 @@ permalink: LINKS/
   This video explains an example about round robin scheduling. It discusses how a Gantt chart is used for this problem with given arrival times
 * [Multiple-Processor Scheduling in Operating System - Geeks for Geeks](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/){:target="_blank"} ---
   A webpage that explains what CPU and multiple-processor scheduling is. It also covers processor affinity and load balancing.
+* [Thrashing (OS) - Casey Cole](https://www.youtube.com/watch?v=vtyXZWp9Fsk){:target="_blank"} ---
+  This video explains what thrashing is and how it works. It also discusses problems that cause it and solutions to solve it.
+* [Allocating Kernel Memory in operating system | buddy system memory allocation|slab allocation in os - Sudhakar Atchala](https://www.youtube.com/watch?v=sKWSk0o-TxE){:target="_blank"} ---
+  This video explains how kernel memory is allocated. It also explains the different types of buddy systems.
+* [Demand paging | Introduction | OS | Lec-22 | Bhanu Priya - Education 4u](https://www.youtube.com/watch?v=aOz3YMfEo1o){:target="_blank"} ---
+  This video explains what demand paging is. It also has an example that is covered.
