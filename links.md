@@ -68,3 +68,9 @@ permalink: LINKS/
   This video explains how kernel memory is allocated. It also explains the different types of buddy systems.
 * [Demand paging | Introduction | OS | Lec-22 | Bhanu Priya - Education 4u](https://www.youtube.com/watch?v=aOz3YMfEo1o){:target="_blank"} ---
   This video explains what demand paging is. It also has an example that is covered.
+* [Input Output Kernel Subsystem - Tutorials Point](https://www.youtube.com/watch?v=8Q35mWChJ2Y){:target="_blank"} ---
+  This video explains what a kernel subsystem is. It also explains how it caches and handles errors.
+* [I/O interface | COA - Education 4u](https://www.youtube.com/watch?v=b9frb09L2kU){:target="_blank"} ---
+  This video explains what the input output interface of operating systems are. It has a diagram which shows how the processor controls each interface.
+* [Basics of OS (I/O Structure) - Neso Academy](https://www.youtube.com/watch?v=F18RiREDkwE&t=25s){:target="_blank"} ---
+  This video covers all the needed information about input and output structures of operating systems. It covers device controllers and device drivers.
